@@ -1,6 +1,6 @@
 # VisualRepo
-read me read me
-see in changes
+lp
+;;;kk
 lla
 
 LLL
@@ -8,5 +8,5 @@ LLL
 PPPP
 
 
-
-CC
+oiori
+rtr
